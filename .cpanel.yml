@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/shreeji/magento2-git.shreejiwebtech.com/
+    - /bin/cp -R images $DEPLOYPATH
