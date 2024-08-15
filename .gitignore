@@ -43,13 +43,6 @@
 /var/package/*
 !/var/package/*.xml
 
-.cpanel.yml
-.gitignore
-.ftp-deploy-sync-state.json
-notes.txt
-.ftpquota
-README.md
-
 /.github/*
 
 **/.git*
