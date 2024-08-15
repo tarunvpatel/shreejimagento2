@@ -1,0 +1,1 @@
+<?php echo "Guide Details showing here"; ?>
