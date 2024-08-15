@@ -43,8 +43,6 @@
 /var/package/*
 !/var/package/*.xml
 
-/.github/*
-
 **/.git*
 **/.git*/**
 **/logs/**
