@@ -43,13 +43,15 @@
 /var/package/*
 !/var/package/*.xml
 
-**/.git*
-**/.git*/**
-**/logs/**
 .cpanel.yml
 .gitignore
 .ftp-deploy-sync-state.json
 notes.txt
 .ftpquota
 README.md
+
+**/.git*
+**/.git*/**
+**/logs/**
+
 
